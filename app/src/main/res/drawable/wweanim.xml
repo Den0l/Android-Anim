@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/wwe5"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe6"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe7"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe8"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe9"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe10"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe11"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe12"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe13"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe14"
+        android:duration="100"/>
+    <item android:drawable="@drawable/wwe15"
+        android:duration="100"/>
+
+</animation-list>
